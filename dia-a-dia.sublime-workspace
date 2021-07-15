@@ -1,0 +1,1255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fore",
+				"foreach"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"url",
+				"urlencode()"
+			],
+			[
+				"get_de",
+				"get_declared_classes()"
+			],
+			[
+				"__",
+				"__construct"
+			],
+			[
+				"dad",
+				"dadosRecebidos"
+			],
+			[
+				"cadas",
+				"cadastrarCliente"
+			],
+			[
+				"FE",
+				"FETCH_OBJ"
+			],
+			[
+				"FET",
+				"FETCH_OBJ"
+			],
+			[
+				"header",
+				"header()"
+			],
+			[
+				"sw",
+				"switch"
+			],
+			[
+				"session_",
+				"session_id()"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"htl",
+				"html5"
+			],
+			[
+				"fo",
+				"foreach"
+			],
+			[
+				"getCli",
+				"getClienteID"
+			],
+			[
+				"getC",
+				"getCliente"
+			],
+			[
+				"getCl",
+				"getClienteID"
+			],
+			[
+				"customer",
+				"customers_id"
+			],
+			[
+				"FIL",
+				"FILTER_SANITIZE_STRING"
+			],
+			[
+				"FILT",
+				"FILTER_DEFAULT"
+			],
+			[
+				"is_",
+				"is_int"
+			],
+			[
+				"FILTER_",
+				"FILTER_VALIDATE_INT"
+			],
+			[
+				"get",
+				"get_class_methods"
+			],
+			[
+				"array",
+				"array_key_exists"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"dele",
+				"deleteProduto"
+			],
+			[
+				"Carrin",
+				"CarrinhosProdutosAttr"
+			],
+			[
+				"fet",
+				"fetchAll"
+			],
+			[
+				"CarrinhosProdutos",
+				"idCarrinhosProdutos"
+			],
+			[
+				"id",
+				"idCesta"
+			],
+			[
+				"base",
+				"base64_off"
+			],
+			[
+				"peso",
+				"pesoCaixa"
+			],
+			[
+				"pr",
+				"products_id"
+			],
+			[
+				"products_options_",
+				"products_options_values_name"
+			],
+			[
+				"Carrinhos",
+				"CarrinhosProdutosAttr"
+			],
+			[
+				"products_options_value",
+				"products_options_value_id"
+			],
+			[
+				"products",
+				"products_id"
+			],
+			[
+				"products_i",
+				"products_id"
+			],
+			[
+				"produ",
+				"products_id"
+			],
+			[
+				"produc",
+				"products_id"
+			],
+			[
+				"idCe",
+				"idCestaCookie"
+			],
+			[
+				"A",
+				"ATTR_SYSTEM"
+			],
+			[
+				"categoria",
+				"categoriaFornecimento"
+			],
+			[
+				"cesta",
+				"cestaInDB"
+			],
+			[
+				"sess",
+				"session_destroy"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"dest",
+				"destino"
+			],
+			[
+				"catego",
+				"categories_id"
+			],
+			[
+				"cate",
+				"categories_id"
+			],
+			[
+				"constatn",
+				"constantePerc"
+			],
+			[
+				"cons",
+				"constantePerc"
+			],
+			[
+				"percentu",
+				"percentualLucro"
+			],
+			[
+				"percen",
+				"percentualReal"
+			],
+			[
+				"percentual",
+				"percentualReal"
+			],
+			[
+				"sessi",
+				"session_destroy"
+			],
+			[
+				"titulo",
+				"tituloTag"
+			],
+			[
+				"dados",
+				"dadosInputados"
+			],
+			[
+				"erro",
+				"errorCadastro"
+			],
+			[
+				"customers_info_date",
+				"customers_info_date_of_last_logon"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"fq",
+				"faqs"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"fetch",
+				"FETCH_OBJ"
+			],
+			[
+				"agora",
+				"agoraTimestamp"
+			],
+			[
+				"cah",
+				"cachetime"
+			],
+			[
+				"date_default",
+				"date_default_timezone_set"
+			],
+			[
+				"html",
+				"htmlPage"
+			],
+			[
+				"compra",
+				"compraML"
+			],
+			[
+				"nome",
+				"nomeCliente"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"produt",
+				"produtosComprados"
+			],
+			[
+				"mens",
+				"mensagemPlana"
+			],
+			[
+				"acce",
+				"access_token"
+			],
+			[
+				"telefone",
+				"telefoneRecebedor"
+			],
+			[
+				"db",
+				"dbTel"
+			],
+			[
+				"te",
+				"telefone"
+			],
+			[
+				"ddd",
+				"dddFormatado"
+			],
+			[
+				"cpf",
+				"cpfDoCliente"
+			],
+			[
+				"arrayshi",
+				"array_unshift"
+			],
+			[
+				"market",
+				"marketplace"
+			],
+			[
+				"oncli",
+				"onclickCard"
+			],
+			[
+				"onc",
+				"onclickCard"
+			],
+			[
+				"link",
+				"linkCartao"
+			],
+			[
+				"edica",
+				"edicaoEnderecoPagador"
+			],
+			[
+				"dataLi",
+				"dataLimitMax"
+			],
+			[
+				"delive",
+				"delivery_postcode"
+			],
+			[
+				"deliv",
+				"delivery_postcode"
+			],
+			[
+				"orders",
+				"orders_id"
+			],
+			[
+				"prefixo",
+				"prefixoEndereco"
+			],
+			[
+				"prefi",
+				"prefixoEndereco"
+			],
+			[
+				"dupli",
+				"compraDuplicada"
+			],
+			[
+				"insertDb",
+				"insertDBtotais"
+			],
+			[
+				"valor",
+				"valorInArray"
+			],
+			[
+				"per",
+				"percentual"
+			],
+			[
+				"desconto",
+				"descontosUp"
+			],
+			[
+				"plain",
+				"plainTxt"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"altura",
+				"alturaDoMonitor"
+			],
+			[
+				"posi",
+				"posicaoDoElemento"
+			],
+			[
+				"img_",
+				"img_estandarte"
+			],
+			[
+				"data-",
+				"data-placement"
+			],
+			[
+				"pic",
+				"pictures"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"garantia",
+				"garantiaSetup"
+			],
+			[
+				"COMPATIL",
+				"COMPATIBLE_SIZES"
+			],
+			[
+				"attributos",
+				"attributosCategoria"
+			],
+			[
+				"json",
+				"jsonTratado"
+			],
+			[
+				"mb",
+				"mb_strtoupper"
+			],
+			[
+				"products_id",
+				"products_info_add"
+			],
+			[
+				"customers_i",
+				"customers_instrumentos_nome"
+			],
+			[
+				"lista",
+				"listaInstrumentos"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"customers",
+				"customers_instrumentos_nome"
+			],
+			[
+				"customers_in",
+				"customers_instrumentos_id"
+			],
+			[
+				"attr",
+				"attrPorCategoria"
+			],
+			[
+				"idCategori",
+				"idCategoriaEcorde"
+			],
+			[
+				"products_op",
+				"products_options_values"
+			],
+			[
+				"orders_product",
+				"orders_products_id"
+			],
+			[
+				"cla",
+				"classProduto"
+			],
+			[
+				"get_",
+				"get_declared_classes"
+			],
+			[
+				"novo",
+				"novoID"
+			],
+			[
+				"dumpe",
+				"dumperInput"
+			],
+			[
+				"formato",
+				"formatoRetorno"
+			],
+			[
+				"cell",
+				"cellspacing"
+			],
+			[
+				"custome",
+				"customers_id"
+			],
+			[
+				"uc",
+				"ucwords"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sft",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"SFTP",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"SFT",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Install ",
+				"Install Package Control"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sfp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ex",
+				"ST: Execute"
+			],
+			[
+				"set syntax: sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"ftp",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"ft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"FT",
+				"SFTP: Browse Server…"
+			],
+			[
+				"TOGGLE",
+				"View: Toggle Menu"
+			],
+			[
+				"stp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"getter",
+				"PHP: Generate Setters"
+			],
+			[
+				"Packe",
+				"Package Control: Enable Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"compos",
+				"Composer: Install"
+			]
+		],
+		"width": 605.0
+	},
+	"console":
+	{
+		"height": 299.0,
+		"history":
+		[
+			"php -r \"copy('https://getcomposer.org/installer', 'composer-setup.php');\"",
+			"menu_visible",
+			"menubar",
+			"show menubar",
+			"show",
+			"Tobble Menu",
+			"toggle_menu",
+			"plugins loaded",
+			"/help",
+			"help",
+			"munu",
+			"menun",
+			"MENU",
+			"WINDOW COMMAND ENABLED True",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"composer.json",
+			"composer"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/TC002/index.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/TC002/includes/class/class.trackCash.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/TC002/includes/class/class.bling.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/TC002/includes/class/class.curl.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/TC002/sftp-config.json",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/TC001/sftp-config.json",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/cadastro.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/includes/header.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/includes/functions.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/includes/class/TrackCash.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/css/estilo.css",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/includes/class/passwordhash.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/includes/footer.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/includes/db.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/js/j.js",
+		"/home/willrocha21/.config/sublime-text-3/Packages/User/SFTP.errors.log",
+		"/home/willrocha21/.config/sublime-text-3/Packages/BootstrapAutocomplete/README.md",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/trackCash.sublime-project",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/index.html",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/sftp-config.json",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/TrackCash/trackCash",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/includes/header01.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-eCordeSchoolar.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/js/geral.js",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/sftp-config.json",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/includes/Classes/Cesta2021.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/Sitemap-gerador.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/sku.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/includes/Classes/classe.Produto.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/includes/application_top.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/AddCartPHPOO-2021.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/css/menu.css",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/includes/Traits/Traits.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/sandbox.php",
+		"/tmp/sublime-sftp-browse-1624895487/mapped/sitemap_estoque.xml",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/php.ini",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/vesao.php",
+		"/tmp/sublime-sftp-browse-1624325589/mapped/includes/classes/cesta.classe.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/cestaPHPOO-2.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/js/cestaPHPOO-2.js",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/ajaxCestaPHPOO-2.php",
+		"/tmp/sublime-sftp-browse-1624035546/mapped/includes/classes/Conexao.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/includes/Classes/Central.php",
+		"/tmp/sublime-sftp-browse-1623950185/mapped/includes/classes/cesta.classe.php",
+		"/tmp/sublime-sftp-browse-1623946563/mapped/includes/classes/cesta.classe.php",
+		"/tmp/sublime-sftp-browse-1623766829/mapped/includes/classes/produto.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/CentralPHPOO.php",
+		"/tmp/sublime-sftp-browse-1623679916/mapped/includes/classes/produto.php",
+		"/tmp/sublime-sftp-browse-1623429078/mapped/includes/classes/Conexao.php",
+		"/tmp/sublime-sftp-browse-1623681177/mapped/sitemap_cursos.xml",
+		"/tmp/sublime-sftp-browse-1623680867/mapped/sitemap_cursos.xml",
+		"/tmp/sublime-sftp-browse-1623677191/mapped/sitemap_cursos.xml",
+		"/tmp/sublime-sftp-browse-1623432785/mapped/includes/classes/order.php",
+		"/tmp/sublime-sftp-browse-1623432768/mapped/includes/classes/classe.Produto.php",
+		"/tmp/sublime-sftp-browse-1623432738/mapped/includes/classes/produto.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/ajaxCategorias.php",
+		"/tmp/sublime-sftp-browse-1623409472/mapped/includes/classes/Conexao.php",
+		"/tmp/sublime-sftp-browse-1623349853/mapped/.htaccess",
+		"/tmp/sublime-sftp-browse-1623349000/mapped/includes/filenames.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/marcas-famosas.php",
+		"/tmp/sublime-sftp-browse-1623349828/mapped/includes/.htaccess",
+		"/tmp/sublime-sftp-browse-1623348542/mapped/includes/classes/seo.class.php",
+		"/tmp/sublime-sftp-browse-1623322145/mapped/includes/classes/produto.php",
+		"/tmp/sublime-sftp-browse-1623237332/mapped/includes/classes/classe.Sessao.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-destaques-dados-extras.php",
+		"/tmp/sublime-sftp-browse-1623173939/mapped/includes/classes/classe.dispositivo.php",
+		"/tmp/sublime-sftp-browse-1623101142/mapped/includes/classes/Conexao.php",
+		"/tmp/sublime-sftp-browse-1622218669/mapped/.htaccess",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/sitemap_lancamentos.xml",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/depoimentos.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/includes/menu_categorias.php",
+		"/tmp/sublime-sftp-browse-1622144737/mapped/includes/classes/classe.Sessao.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/includes/functions/general.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/error_log",
+		"/tmp/sublime-sftp-browse-1622144267/mapped/includes/classes/classe.Sessao.php",
+		"/tmp/sublime-sftp-browse-1622116740/mapped/includes/classes/produto.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/js/faceAutoeCorde.js",
+		"/tmp/sublime-sftp-browse-1622032713/mapped/includes/classes/produto.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-lancamentos.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-maisProcuradosHoje-mobile-v1.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-maisProcuradosHoje-mobile-v2.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-maisProcuradosHoje-mobile.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-caiupreco.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-chegouNoEstoque-Mobile.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-chegou-no-estoque-mobile.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-chegou-no-estoque-mobile-v2.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-chegou-no-estoque-mobile-v1.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-chegou-estoque.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-caiupreco-mobile.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-caiuPreco-mobile-v2.php",
+		"/tmp/sublime-sftp-browse-1621433827/mapped/includes/classes/produto.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/includes/classes/compra.classe.php",
+		"/tmp/sublime-sftp-browse-1621259455/mapped/ajaxCestaPHPOO.php",
+		"/tmp/ecordeOutLine.json",
+		"/tmp/sublime-sftp-browse-1620927980/mapped/index.php",
+		"/tmp/sublime-sftp-browse-1620933426/mapped/includes/menu_categorias.php",
+		"/tmp/sublime-sftp-browse-1620928124/mapped/includes/classes/seo.class.php",
+		"/tmp/sublime-sftp-browse-1620932024/mapped/includes/classes/seo.class.php1",
+		"/tmp/sublime-sftp-browse-1620932685/mapped/includes/header01.php",
+		"/tmp/sublime-sftp-browse-1621008066/mapped/sku.php",
+		"/tmp/sublime-sftp-browse-1620928910/mapped/includes/application_top.php",
+		"/tmp/sublime-sftp-browse-1620926226/mapped/.htaccess",
+		"/tmp/sublime-sftp-browse-1620932613/mapped/includes/classes/breadcrumb.php",
+		"/tmp/sublime-sftp-browse-1620931842/mapped/includes/functions/general.php",
+		"/tmp/sublime-sftp-browse-1620931631/mapped/ajaxCategorias.php",
+		"/tmp/sublime-sftp-browse-1620928995/mapped/includes/classes/seo.class.php1",
+		"/tmp/sublime-sftp-browse-1620926574/mapped/includes/classes/seo.class.php1",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-cursos.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/amaranth-bold-webfont.woff",
+		"/tmp/sublime-sftp-browse-1620923004/mapped/.htaccess",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/decenal.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/index.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-maisProcuradosHoje.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/processa.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/includes/application_bottom.php",
+		"/tmp/sublime-sftp-browse-1620903295/mapped/includes/classes/produto.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/ajaxUpDB.php",
+		"/tmp/sublime-sftp-browse-1620754549/mapped/includes/classes/produto.php",
+		"/tmp/sublime-sftp-browse-1620411872/mapped/includes/classes/produto.php",
+		"/tmp/sublime-sftp-browse-1620415189/mapped/includes/classes/seo.class.php",
+		"/tmp/sublime-sftp-browse-1620668795/mapped/.htaccess",
+		"/tmp/sublime-sftp-browse-1620413027/mapped/.htaccess",
+		"/tmp/sublime-sftp-browse-1620246448/mapped/includes/classes/classe.Login.php",
+		"/tmp/sublime-sftp-browse-1620318802/mapped/includes/classes/seo.class.php",
+		"/tmp/sublime-sftp-browse-1620324539/mapped/includes/application_top.php",
+		"/tmp/sublime-sftp-browse-1620318131/mapped/.htaccess",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/bitbar-destaques.php",
+		"/media/willrocha21/eCorde/Manutenção/Backup - Loja online/OmeuHost - 2021/includes/functions/transportes.php"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 173.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CURLOPT_HTTPHEADER",
+			"CURLOPT_RETURNTRANSFER",
+			"_post",
+			"CURLOPT_HTTPHEADER",
+			"_includeHeader",
+			"CURLOPT_CUSTOMREQUEST",
+			"getToken",
+			"\"",
+			"\",",
+			"\":\"",
+			"setDados",
+			"_includeHeader",
+			"$type",
+			".css",
+			"cadastrarCliente",
+			"setWarning",
+			"cadastrarCliente",
+			"dump(",
+			"tratarDados",
+			"vazaPilantra",
+			"cadastro.php'",
+			"cadastro.php",
+			"FORMATA",
+			"r$",
+			"real",
+			"update_campo(",
+			"$hoje",
+			"pubDate",
+			"<![CDATA[",
+			"gravaEstoque",
+			"</channel>",
+			"\\n\\t</channel>",
+			"time()",
+			"$estoque =",
+			"Find",
+			"sitemap_cursos.xml",
+			"guid",
+			"exec",
+			";}\n",
+			"div.miniBannerEmEStoque div.cell90I span.b, div.miniBannerEncomenda div.cell90I span.b, div.miniBannerFreteGratis div.cell90I span.b, div.ofertasDeEstoqueEFrete div.iconTitulo span",
+			"setDisclaimerNoProduto",
+			"DisclaimerNoProduto",
+			" setproduto",
+			"insertProdutoNoDB",
+			"aninharAtributos",
+			"aninharAtributos(",
+			"getProdutos",
+			"getClienteID",
+			"getID",
+			"constru",
+			"PDO::",
+			"dump(",
+			"($ip",
+			"range",
+			"$a",
+			"->peso",
+			"deleteProduto(",
+			"deleteProduto",
+			"deleteProduto(",
+			"setProdutos",
+			"content",
+			"<description>",
+			"peso",
+			"setIdCestaCookieESessao",
+			"cookie",
+			"fundirCestas(",
+			"fusao",
+			"fundirCestas",
+			"delete",
+			"'CarrinhosProdutos'",
+			"updateDados(",
+			"fundirCestas",
+			"$this->getExisteCestaNoDB(",
+			"exit",
+			"dump(",
+			"fundir",
+			"formatar",
+			"dados",
+			"setPesoCesta",
+			"dc:language",
+			"dc:date",
+			"isPermaLink=\"true\"",
+			"g:availability",
+			"lastBuildDate",
+			"desatu",
+			"updateDados(",
+			"updateDados",
+			"setProduto(",
+			"updateDados(",
+			"insertCestaNoDB(",
+			"Login",
+			"id_carrinho",
+			"insertCestaNoDB",
+			"'aleatorio'",
+			"insertCestaNoDB(",
+			"getExisteCestaNoDB(",
+			"Encontramos o cookie ",
+			"setIdCestaCookieESessao",
+			"setcookie",
+			"getExisteCestaNoDB(",
+			"if($this->getExisteCestaNoDB(",
+			"getCestasNoDB",
+			"GerarCestaID_2",
+			"rando",
+			"ale",
+			"getCookieIdCesta",
+			"setID",
+			"getTotal",
+			"sett",
+			"getotal",
+			"gettotal",
+			"produtos",
+			"getProdutos",
+			"setto",
+			"setProduto",
+			"getProdutos",
+			"setTotalGeral",
+			"additional_image_link",
+			"$compra",
+			"getcompras",
+			"$Central",
+			"$compra",
+			"$pagamento",
+			"xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\"",
+			"xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" ",
+			"select ",
+			"'tipo'",
+			"div#descricaoProduto div.content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"',",
+			"' => '",
+			"\\PDO::",
+			"setProdutos(",
+			"produtosEmSessao",
+			"'dadosInputados'",
+			"",
+			".ImagemFlutuanteBannerInfoH3, .ImagemFlutuanteBannerInfoP",
+			"$resultado->products_id",
+			"$resultado->dataStart",
+			"$resultado->imagemUrl",
+			"$resultado->urlProduto",
+			"$resultado->nome",
+			"$resultado->id",
+			"$resultado->legenda",
+			"$resultado->layoutID",
+			"c.",
+			"$resultado",
+			"imagemUrl",
+			"dataStart",
+			"campanha",
+			"urlProduto",
+			"legenda",
+			"nome",
+			"id",
+			"1",
+			".btnDealCenterClass",
+			"token",
+			"getTokenGen",
+			"tokenGen(",
+			"(\\PDO::FETCH_ASSOC)",
+			"(\\PDO::FETCH_OBJ)",
+			"sku.php?",
+			"(int)$f['PrazoEntrega']",
+			"<?php echo ",
+			"<?php echo",
+			"<? echo ",
+			"",
+			", `c.",
+			"(\\PDO::",
+			"$instancia",
+			"?",
+			"Sans",
+			"sans_b",
+			"1.195",
+			"1.095",
+			"1.075",
+			"href=\"'.$_SERVER[\"SCRIPT_URI\"].'#Tags\"",
+			"FAQs",
+			"#abaFAqs",
+			"Blog",
+			"#Blog",
+			"1.030",
+			"eB",
+			"eT",
+			"sB",
+			"sT",
+			"',",
+			"' => '",
+			"'",
+			"'  =>  '",
+			"'",
+			" => ",
+			"]",
+			"[",
+			"$cotacaoDollar",
+			"Id",
+			"$cachefileExistente",
+			"<img loading=\"lazy\" ",
+			"<img loading=\"lazy\"",
+			"$cadaProduto",
+			"$pacote",
+			"$r",
+			"sellerID",
+			"setSellerId",
+			"getSellerId",
+			"$compraML",
+			"$produtosComprados",
+			"banner-email-contra-corona-virus.jpg",
+			"$texto",
+			"/admin-html/img/avatars/",
+			"'PC'",
+			"getDadosEnderecosForEdit",
+			"setDadosEnderecosForEdit",
+			"$d->pagamento->dados->banco",
+			"$d->pagamento->dados->titular",
+			"$d->info->id",
+			"$d->info->payment_method",
+			"$totais",
+			"$fretes",
+			"class=\"tableCell\"",
+			"class=\"tableCell",
+			"class=\"tableCell\"",
+			"class=\"tableRow\"",
+			"width: 25%;",
+			"|",
+			"form-control",
+			"$precoMarketPlaces",
+			"preco->precoCartao",
+			"imagens->principal->url",
+			"fabricante->name",
+			"basic->modelo",
+			"basic->link",
+			"basic->linkAmigavel",
+			"basic->EAN",
+			"preco->precoDinheiro",
+			"basic->nomeBR",
+			"preco->precoEcorde",
+			"custos->lucroPerc",
+			"custos->total->BR",
+			"basic->preco",
+			"basic->quantidade",
+			"(object)array(",
+			"\\PDO::",
+			",",
+			"->",
+			"categoriaIntegra",
+			"armazenagem",
+			"$armazem",
+			"$_REQUEST",
+			"$html",
+			"$delimitador",
+			"</td>",
+			"<td",
+			"",
+			"$disponibilidade",
+			"$MPid"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 56.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 188.0
+	},
+	"output.SQLTools Result":
+	{
+		"height": 47.0
+	},
+	"output.find_results":
+	{
+		"height": 210.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 198.0
+	},
+	"pinned_build_system": "",
+	"project": "dia-a-dia.sublime-project",
+	"replace":
+	{
+		"height": 98.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/tmp/sublime-sftp-browse-1517398033/ecorde_kinghost/www/admin/categories_nova.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/tmp/eCorde/eCorde.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 201.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"# ChangeLog"
+			]
+		],
+		"width": 580.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
